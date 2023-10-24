@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hcYvmEYs9D95ZlEu0D/TJ7YRwJzkAVdHF9VT1DG40KI=",
+  "Source": "BasicJWTAuth",
+  "BasePath": "_content/BasicJWTAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
